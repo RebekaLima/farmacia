@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { consultar } from '../../../service/Service';
+import { consultar } from '../../../services/Service';
 
 interface Usuario {
   id: number;
